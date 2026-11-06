@@ -1933,6 +1933,7 @@ _data = {
 }
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_ob5bi"]
+radius = 0.22802734
 height = 1.8488655
 
 [node name="player" type="CharacterBody3D" unique_id=1956668608]
